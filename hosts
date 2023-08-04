@@ -1,0 +1,11 @@
+[webserver]
+web1
+web2
+web3
+
+[database]
+db
+
+[staging]
+server1
+server2
